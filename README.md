@@ -3,7 +3,7 @@
         <br>Hey there, I'm Levindo Gabriel Taschetto Neto. <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
     </abc>  
 </h2> 
-<h3>I'm founder and Lead IT Consultant at Dawntech Inc. and I love to share and talk about my projects!
+<h3>I'm founder and Lead IT Consultant at Dawntech Inc. and I love to share my projects!
 <br>
 <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=790b7611cb3a38f50131235361b50e1dc6227430622fc10a&rid=giphy.gif&ct=g" width="auto">
 </h3>
@@ -33,4 +33,4 @@
     </a>
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/levindo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levindo)](https://www.linkedin.com/in/levindo) [![Facebook Badge](https://img.shields.io/badge/dawntech-.dev-blue?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/dawntech.dev)](https://www.facebook.com/dawntech.dev) [![Instagram Badge](https://img.shields.io/badge/dawntech-.dev-blue?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/dawntech.dev)](https://www.instagram.com/dawntech-dev)
+[![Linkedin Badge](https://img.shields.io/badge/levindo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levindo)](https://www.linkedin.com/in/levindo) [![Facebook Badge](https://img.shields.io/badge/dawntech-.dev-blue?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/dawntech.dev)](https://www.facebook.com/dawntech.dev) [![Instagram Badge](https://img.shields.io/badge/dawntech-.dev-blue?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/dawntech.dev)](https://www.instagram.com/dawntech.dev)
