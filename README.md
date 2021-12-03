@@ -5,7 +5,7 @@
 </h2> 
 <h3>I'm Founder and IT Consultant at Dawntech Inc. and I like to share my projects!
 <br>
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=790b7611cb3a38f50131235361b50e1dc6227430622fc10a&rid=giphy.gif&ct=g" width="auto">
+<img src="https://dawntech.dev/static/media/dawn.c0af8285.gif" width="50%">
 </h3>
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use</h2>
