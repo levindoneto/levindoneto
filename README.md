@@ -36,8 +36,6 @@
           
 ## 🧮 Stats
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=levindoneto)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=levindoneto&show_icons=true&theme=dracula&count_private=true&line_height=20" />
 </a>
