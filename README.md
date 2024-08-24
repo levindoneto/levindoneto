@@ -3,7 +3,7 @@
         <br>Hey there, I'm Levindo Gabriel Taschetto Neto. <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
     </abc>  
 </h2> 
-<h3>I'm Founder and IT Consultant at Dawntech Inc. and I like to share my projects!
+<h3>I'm Founder and CEO at Dawntech!
 <br>
 <img src="https://dawntech.dev/static/media/dawn.c0af8285.gif" width="50%">
 </h3>
